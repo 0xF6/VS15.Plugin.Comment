@@ -1,0 +1,19 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="AdvancedTechnologies.Expansion.13CE7778-98C2-4D4B-9F25-7DC02EBFEDE4" Version="15.6.4085.9521" Language="en-US" Publisher="AGT-Soul"/>
+    <DisplayName>AdvancedTechnologies Expansion Comment</DisplayName>
+	<Description xml:space="preserve">Highlight of Expansion Comment VS15</Description>
+    <License>License.txt</License>
+    <Icon>ATVS15.png</Icon>
+	<Tags>Comments, Formatting</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[14.0,]" />
+    <InstallationTarget Version="[14.0,]" Id="Microsoft.VisualStudio.Ultimate" />
+    <InstallationTarget Version="[14.0,]" Id="Microsoft.VisualStudio.Premium" />
+    <InstallationTarget Version="[14.0,]" Id="Microsoft.VisualStudio.IntegratedShell" />
+  </Installation>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="AdvancedTechnologies.VS15.Comment.dll"/>
+  </Assets>
+</PackageManifest>

@@ -1,0 +1,15 @@
+C:\Users\Callada\Desktop\SharpCom\obj\Debug\SharpComments.csprojResolveAssemblyReference.cache
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\AdvancedTechnologies.VS.Comment.dll
+C:\Users\Callada\Desktop\SharpCom\bin\Debug\AdvancedTechnologies.VS.Comment.pdb
+C:\Users\Callada\Desktop\SharpCom\obj\Debug\AdvancedTechnologies.VS.Comment.dll
+C:\Users\Callada\Desktop\SharpCom\obj\Debug\AdvancedTechnologies.VS.Comment.pdb
